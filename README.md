@@ -1,72 +1,96 @@
-🚀 Mini-IDS — Advanced Intrusion Detection System
+# 🔥 Mini-IDS — Advanced Intrusion Detection System
 
-A lightweight yet powerful Intrusion Detection System featuring AI anomaly detection, multi-layer threat analysis, and a real-time web dashboard. Designed for students, researchers, and enterprise security teams.
+A lightweight, AI-powered Intrusion Detection System (IDS) with real-time dashboard, deep packet inspection, and multi-layer threat detection.
 
-🔧 Quick Start
-git clone https://github.com/yourusername/mini-ids.git
+---
+
+## 🚀 Quick Start
+
+```bash
+git clone https:https://github.com/maria-habib17/Intrusion-Detection-System
 cd mini-ids
 pip install -r requirements_advanced.txt
 python run_complete_system.py
+```
 
+Access dashboard:  
+👉 **http://localhost:5000**
 
-Dashboard available at: http://localhost:5000
+---
 
-✨ Key Features
+## ✨ Features
 
-AI Behavioral Analysis
-Detects unseen threats using machine learning anomaly detection.
+- **AI Behavioral Analysis** — Machine-learning anomaly detection  
+- **Multi-Layer Detection** — Signature + behavioral + statistical  
+- **Real-time Dashboard** — Live monitoring using WebSockets  
+- **Deep Packet Inspection** — Payload scanning  
+- **Enterprise Performance** — 700+ packets/sec, <50MB RAM
 
-Multi-Layer Protection
-Signature matching + behavior analysis + statistical methods.
+---
 
-Real-Time Dashboard
-WebSocket-powered live alerts and traffic insights.
+## 🛡️ Detection Capabilities
 
-Deep Packet Inspection
-Scans payloads for malicious content.
+| Threat Type          | Detection Method              | Accuracy |
+|----------------------|-------------------------------|----------|
+| Port Scanning        | Threshold Analysis            | 98%      |
+| SYN Flood            | Packet Rate Monitoring        | 100%     |
+| Behavioral Anomalies | AI Pattern Recognition        | 85%      |
+| Malicious Payloads   | Deep Packet Inspection        | 100%     |
 
-High Performance
-Handles 700+ packets/sec using <50MB RAM.
+---
 
-🛡️ Detection Capabilities
-Threat Type	Method	Accuracy
-Port Scanning	Threshold Analysis	98%
-SYN Flood	Packet Rate Monitoring	100%
-Behavioral Anomalies	AI Pattern Recognition	85%
-Malicious Payloads	Deep Packet Inspection	100%
-📁 Project Structure
+## 📁 Project Structure
+
+```
 mini-ids/
 ├── ids_core_enhanced.py      # Detection engine
-├── dashboard_ui.py           # Web dashboard
+├── dashboard_ui.py           # Web interface
 ├── run_complete_system.py    # System launcher
-├── config_advanced.json      # Configuration file
+├── config_advanced.json      # Configurations
 └── requirements_advanced.txt # Dependencies
+```
 
-⚡ Usage
-Basic Monitoring
+---
+
+## ⚡ Usage
+
+```bash
+# Basic monitoring
 python run_complete_system.py
 
-AI-Enhanced Detection
+# AI-enhanced detection
 python ids_core_enhanced.py
 
-Custom Configuration
+# Custom config
 python run_complete_system.py --config config_advanced.json
+```
 
-🎯 Advanced Examples
-AI-Powered Threat Detection
+---
+
+## 🎯 Advanced Features
+
+```python
+# AI-Powered Detection
 ai_analysis = analyze_behavior(src_ip, packet_data)
 if ai_analysis['confidence'] > 0.8:
     trigger_ai_alert("Suspicious pattern detected")
 
-Real-Time Dashboard Alerts
+# Real-time Dashboard
 dashboard.add_alert({
     'timestamp': datetime.now(),
     'alert_type': 'Port Scan',
     'source_ip': src_ip,
     'severity': 'HIGH'
 })
+```
 
-🔧 Configuration (config_advanced.json)
+---
+
+## 🔧 Configuration
+
+`config_advanced.json` example:
+
+```json
 {
     "ai_enabled": true,
     "deep_packet_inspection": true,
@@ -75,46 +99,37 @@ dashboard.add_alert({
         "syn_flood": {"max_syn_per_second": 25}
     }
 }
+```
 
-📊 Performance
+---
 
-700+ packets/sec
+## 📊 Performance
 
-<50MB RAM usage
+- **700+ packets/sec**
+- **< 50MB RAM**
+- **< 100ms detection latency**
+- **98% threat detection accuracy**
 
-<100ms detection latency
+---
 
-98% overall detection accuracy
+## 🎓 Use Cases
 
-🎓 Ideal Use Cases
+- Academic research  
+- Small/medium enterprise security  
+- Network monitoring  
+- Detection algorithm development
 
-Academic Cybersecurity Research
+---
 
-Enterprise Network Security
+## 🤝 Contributing
 
-Real-Time Network Traffic Monitoring
+Contributions welcome!  
+You can improve:
 
-Threat Detection Algorithm Development
+- ML models  
+- Detection signatures  
+- Dashboard UI  
+- Performance tuning  
 
-📄 Documentation
+---
 
-Technical Report (7 pages)
-
-Configuration Guide
-
-API Reference
-
-🤝 Contributing
-
-We welcome contributions!
-You can help by improving:
-
-AI/ML models
-
-Detection rules
-
-Dashboard UI
-
-System performance
-
-Please submit a PR or open an issue.
