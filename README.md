@@ -1,64 +1,72 @@
-Quick Start
-bash
+🚀 Mini-IDS — Advanced Intrusion Detection System
+
+A lightweight yet powerful Intrusion Detection System featuring AI anomaly detection, multi-layer threat analysis, and a real-time web dashboard. Designed for students, researchers, and enterprise security teams.
+
+🔧 Quick Start
 git clone https://github.com/yourusername/mini-ids.git
 cd mini-ids
 pip install -r requirements_advanced.txt
 python run_complete_system.py
-Access dashboard: http://localhost:5000
 
-✨ Features
-AI Behavioral Analysis - Machine learning anomaly detection
 
-Multi-Layer Detection - Signature + behavioral + statistical analysis
+Dashboard available at: http://localhost:5000
 
-Real-time Dashboard - Live monitoring with WebSocket updates
+✨ Key Features
 
-Deep Packet Inspection - Payload analysis for malicious content
+AI Behavioral Analysis
+Detects unseen threats using machine learning anomaly detection.
 
-Enterprise Performance - 700+ packets/sec, <50MB RAM
+Multi-Layer Protection
+Signature matching + behavior analysis + statistical methods.
+
+Real-Time Dashboard
+WebSocket-powered live alerts and traffic insights.
+
+Deep Packet Inspection
+Scans payloads for malicious content.
+
+High Performance
+Handles 700+ packets/sec using <50MB RAM.
 
 🛡️ Detection Capabilities
-Threat Type	Detection Method	Accuracy
+Threat Type	Method	Accuracy
 Port Scanning	Threshold Analysis	98%
 SYN Flood	Packet Rate Monitoring	100%
 Behavioral Anomalies	AI Pattern Recognition	85%
 Malicious Payloads	Deep Packet Inspection	100%
 📁 Project Structure
-text
 mini-ids/
-├── ids_core_enhanced.py      # Main detection engine
-├── dashboard_ui.py           # Web interface
-├── run_complete_system.py    # Launcher
-├── config_advanced.json      # Configuration
+├── ids_core_enhanced.py      # Detection engine
+├── dashboard_ui.py           # Web dashboard
+├── run_complete_system.py    # System launcher
+├── config_advanced.json      # Configuration file
 └── requirements_advanced.txt # Dependencies
+
 ⚡ Usage
-bash
-# Basic monitoring
+Basic Monitoring
 python run_complete_system.py
 
-# AI-enhanced detection
+AI-Enhanced Detection
 python ids_core_enhanced.py
 
-# Custom configuration
+Custom Configuration
 python run_complete_system.py --config config_advanced.json
-🎯 Advanced Features
-python
-# AI-Powered Detection
+
+🎯 Advanced Examples
+AI-Powered Threat Detection
 ai_analysis = analyze_behavior(src_ip, packet_data)
 if ai_analysis['confidence'] > 0.8:
     trigger_ai_alert("Suspicious pattern detected")
 
-# Real-time Dashboard
+Real-Time Dashboard Alerts
 dashboard.add_alert({
     'timestamp': datetime.now(),
     'alert_type': 'Port Scan',
     'source_ip': src_ip,
     'severity': 'HIGH'
 })
-🔧 Configuration
-Edit config_advanced.json:
 
-json
+🔧 Configuration (config_advanced.json)
 {
     "ai_enabled": true,
     "deep_packet_inspection": true,
@@ -67,38 +75,46 @@ json
         "syn_flood": {"max_syn_per_second": 25}
     }
 }
+
 📊 Performance
-Processing: 700+ packets/second
 
-Memory: < 50MB RAM
+700+ packets/sec
 
-Latency: < 100ms detection
+<50MB RAM usage
 
-Accuracy: 98% threat detection
+<100ms detection latency
 
-🎓 Use Cases
-Academic Research - Cybersecurity education and experiments
+98% overall detection accuracy
 
-Enterprise Security - Small-to-medium business protection
+🎓 Ideal Use Cases
 
-Network Monitoring - Real-time traffic analysis
+Academic Cybersecurity Research
 
-Security Research - Detection algorithm development
+Enterprise Network Security
+
+Real-Time Network Traffic Monitoring
+
+Threat Detection Algorithm Development
 
 📄 Documentation
-Technical Report - 7-page detailed analysis
 
-Configuration Guide - Setup instructions
+Technical Report (7 pages)
 
-API Reference - Integration guide
+Configuration Guide
+
+API Reference
 
 🤝 Contributing
-We welcome security researchers and developers to contribute:
 
-Machine learning models
+We welcome contributions!
+You can help by improving:
+
+AI/ML models
 
 Detection rules
 
-Dashboard enhancements
+Dashboard UI
 
-Performance optimizations
+System performance
+
+Please submit a PR or open an issue.
