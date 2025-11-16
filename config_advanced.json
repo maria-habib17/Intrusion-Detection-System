@@ -1,0 +1,19 @@
+{
+    "interface": null,
+    "max_packets_per_second": 100,
+    "whitelist_ips": ["127.0.0.1"],
+    "ai_enabled": true,
+    "deep_packet_inspection": true,
+    "detection_rules": {
+        "port_scan": {"enabled": true, "max_ports_per_minute": 15, "alert_threshold": 10},
+        "syn_flood": {"enabled": true, "max_syn_per_second": 25, "alert_threshold": 20},
+        "failed_connections": {"enabled": true, "max_failed_per_minute": 8, "alert_threshold": 5},
+        "suspicious_ports": {"enabled": true, "ports": [4444, 31337, 12345, 666, 1337, 9999]},
+        "behavioral_analysis": {"enabled": true, "learning_period": 300}
+    },
+    "logging": {
+        "log_file": "logs/enhanced_ids_log.csv",
+        "console_alerts": true,
+        "log_level": "INFO"
+    }
+}

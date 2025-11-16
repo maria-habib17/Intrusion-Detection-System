@@ -1,0 +1,228 @@
+2025-11-13 21:23:40,970 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,timestamp,alert_type,source_ip,description,severity
+,,2025-11-13 21:23:40,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:23:41,753 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:41,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:42,032 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:42,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:42,118 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:42,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:42,784 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:23:42,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:23:42,801 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:23:42,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:23:42,940 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:23:42,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:23:43,712 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:43,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:45,428 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:45,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:45,835 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:45,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:47,695 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:23:47,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:23:48,280 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:48,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:48,303 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:48,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:48,509 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:23:48,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:23:49,040 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:23:49,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:23:49,055 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:49,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:50,155 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:23:50,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:23:50,269 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:23:50,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:23:52,773 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:52,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:52,836 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:52,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:52,997 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:23:52,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:23:54,731 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:23:54,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:23:59,570 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:23:59,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:24:01,887 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:24:01,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:24:01,912 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:24:01,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:24:08,749 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:24:08,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:24:08,961 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:24:08,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:24:09,019 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:24:09,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:24:12,343 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:24:12,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:24:23,495 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:24:23,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:24:23,592 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:24:23,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:24:36,125 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:24:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:24:39,257 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:24:39,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:24:44,284 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:24:44,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:24:44,398 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:24:44,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:24:44,433 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:24:44,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:24:50,526 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:24:50,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:25:36,222 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:25:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:25:36,238 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:25:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:25:36,647 - WARNING - SYN Flood Attack - High rate of SYN packets from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:25:36,SYN Flood Attack,192.168.10.3,High rate of SYN packets from 192.168.10.3,HIGH
+2025-11-13 21:25:38,069 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:25:38,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:25:44,219 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:25:44,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:26:12,329 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:26:12,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:26:15,468 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:26:15,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:26:15,489 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:26:15,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:26:22,232 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:26:22,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:26:36,097 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:26:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:26:46,143 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:26:46,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:26:47,016 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:26:47,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:26:49,162 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:26:49,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:26:53,758 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:26:53,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:26:53,881 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:26:53,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:26:56,940 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:26:56,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:27:00,125 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:00,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:05,764 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:05,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:05,825 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:27:05,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:27:05,926 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:27:05,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:27:09,723 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:27:09,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:27:23,575 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:27:23,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:27:26,323 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:27:26,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:27:34,175 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:27:34,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:27:34,321 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:27:34,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:27:41,544 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:27:41,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:27:42,856 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:27:42,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:27:50,347 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:50,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:50,364 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:50,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:50,383 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:50,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:50,403 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:50,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:50,425 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:50,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:50,678 - WARNING - SYN Flood Attack - High rate of SYN packets from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:50,SYN Flood Attack,192.168.10.3,High rate of SYN packets from 192.168.10.3,HIGH
+2025-11-13 21:27:51,640 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:51,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:51,650 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:51,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:51,815 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:27:51,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:27:53,067 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.4.4 - Source: 8.8.4.4,,,,,
+,,2025-11-13 21:27:53,Multiple Failed Connections,8.8.4.4,Multiple connection failures from 8.8.4.4,LOW
+2025-11-13 21:27:53,973 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:53,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:54,855 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:54,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:55,661 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:27:55,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:27:55,802 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:27:55,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:27:56,732 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:56,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:27:57,804 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:27:57,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:28:00,627 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:28:00,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:28:00,641 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:28:00,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:28:00,999 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:28:00,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:28:12,366 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:28:12,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:28:12,430 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:28:12,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:28:12,862 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:28:12,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:28:36,436 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:28:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:28:36,480 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:28:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:28:45,867 - WARNING - Multiple Failed Connections - Multiple connection failures from 8.8.8.8 - Source: 8.8.8.8,,,,,
+,,2025-11-13 21:28:45,Multiple Failed Connections,8.8.8.8,Multiple connection failures from 8.8.8.8,LOW
+2025-11-13 21:28:48,112 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:28:48,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:32:38,230 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:32:38,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:33:15,126 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:33:15,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:33:36,152 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:33:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:35:14,012 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:35:14,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:35:14,292 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:35:14,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:35:18,634 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:35:18,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:35:36,438 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:35:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:35:37,192 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:35:37,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:36:59,059 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:36:59,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:37:22,054 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:37:22,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:37:56,519 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:37:56,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:38:38,929 - WARNING - SYN Flood Attack - High rate of SYN packets from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:38:38,SYN Flood Attack,192.168.10.3,High rate of SYN packets from 192.168.10.3,HIGH
+2025-11-13 21:38:39,196 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:38:39,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:38:39,220 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:38:39,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:38:39,246 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:38:39,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:38:39,619 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:38:39,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:38:40,041 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:38:40,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:38:58,027 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:38:57,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:39:25,025 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:39:25,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:39:36,104 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:39:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:40:36,105 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:40:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:45:32,172 - WARNING - Multiple Failed Connections - Multiple connection failures from 163.181.164.243 - Source: 163.181.164.243,,,,,
+,,2025-11-13 21:45:32,Multiple Failed Connections,163.181.164.243,Multiple connection failures from 163.181.164.243,LOW
+2025-11-13 21:48:36,134 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:48:36,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
+2025-11-13 21:48:50,074 - WARNING - Multiple Failed Connections - Multiple connection failures from 192.168.10.3 - Source: 192.168.10.3,,,,,
+,,2025-11-13 21:48:50,Multiple Failed Connections,192.168.10.3,Multiple connection failures from 192.168.10.3,LOW
